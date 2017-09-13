@@ -1,8 +1,8 @@
 body {
 	background-image: url(http://www.lebensbratpfanne.bplaced.net/assets/image/paper-texture.png);
 	margin: 0 auto;
-	overflow: scroll;
 	overflow-x: hidden;
+	overflow-y: hidden;
 }
 p {
 	color: #777777;
